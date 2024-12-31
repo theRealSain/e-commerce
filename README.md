@@ -21,7 +21,7 @@ Ensure that you have the following installed on your machine:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-ecommerce-app.git
+git clone https://github.com/theRealSain/e-commerce.git
 cd simple-ecommerce-app
 ```
 
