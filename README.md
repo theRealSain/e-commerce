@@ -22,7 +22,7 @@ Ensure that you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/theRealSain/e-commerce.git
-cd simple-ecommerce-app
+cd e-commerce
 ```
 
 ### Install Dependencies
@@ -66,6 +66,10 @@ This will create an optimized build in the `dist/` folder.
   index.css           # Global styles
   index.js            # Entry point for React application
 ```
+
+### Live Project
+This project is live at:
+- [E-Commerce](https://therealsain.github.io/e-commerce/)
 
 ## Contribution Guidelines
 
