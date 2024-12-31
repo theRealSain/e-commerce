@@ -70,15 +70,3 @@ This will create an optimized build in the `dist/` folder.
 ## Contribution Guidelines
 
 If you'd like to contribute to this project, feel free to fork it and submit a pull request. All contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Key Sections:
-1. **Project Overview**: A brief description of the project, including the features.
-2. **Tech Stack**: Information about the technologies used in the project.
-3. **Getting Started**: Instructions on how to clone, install dependencies, and run the application.
-4. **Folder Structure**: Explanation of the directory layout for the project.
-5. **Contribution Guidelines**: An invitation to contribute to the project, with a note on forking and submitting pull requests.
-6. **License**: The licensing information for the project (MIT License is commonly used, but you can modify it based on your project's license).
